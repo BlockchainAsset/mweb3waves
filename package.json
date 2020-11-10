@@ -17,7 +17,7 @@
         "styled-system": "^4.1.0",
         "memoize-one": "^5.0.4",
         "@waves/waves-transactions": "^3.3.11",
-        "@waves/waves-crypto": "^2.0.4"
+        "@waves/waves-crypto": "^3.0.17"
     },
     "devDependencies": {
         "@babel/core": "^7.4.3",
