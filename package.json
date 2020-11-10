@@ -14,7 +14,7 @@
         "react-lines-ellipsis": "^0.14.1",
         "react-transition-group": "^4.0.0",
         "styled-components": "^4.2.0",
-        "styled-system": "^4.1.0",
+        "styled-system": "^5.1.5",
         "memoize-one": "^5.0.4",
         "@waves/waves-transactions": "^3.3.11",
         "@waves/waves-crypto": "^2.0.4"
