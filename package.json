@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "express": "^4.16.4",
-        "react": "^16.8.6",
+        "react": "^17.0.2",
         "react-dom": "^16.8.6",
         "react-hook-form": "^3.9.0",
         "react-lines-ellipsis": "^0.14.1",
